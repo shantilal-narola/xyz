@@ -5,7 +5,7 @@ require 'xyz/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "xyz"
-  spec.version       = Xyz::VERSION
+  spec.version       = "0.2"
   spec.authors       = ["Shanti Lal"]
   spec.email         = ["shm.narola@gmail.com"]
 
